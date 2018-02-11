@@ -1,0 +1,9 @@
+# Ignore image files
+generated/
+
+# Ignore Sketch files via Kactus
+*.sketch
+
+.DS_Store
+
+.idea/
