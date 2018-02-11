@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 78,
     "width": 374,
-    "x": 113,
-    "y": 61
+    "x": -4,
+    "y": -17
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -26,8 +26,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "D8390EA2-E1A2-45D6-9892-280782E4D477"
+      "class": "shapeGroup",
+      "id": "3D658A51-95DA-4F45-801B-7B4BD847CFD8"
     },
     {
       "class": "text",
