@@ -1,0 +1,63 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGlZZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIERIcJygpKisvNzg5OjtCRkxPUVtcZmdxcnx9hYmNkVUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAHoADgCBXQnJhbmNoINITDBQbWk5TLm9iamVjdHOmFRYXGBkagASAFIAWgBiAGoAcgB3THRMMHiImV05TLmtleXOjHyAhgAWABoAHoyMkJYAIgAmAEYATVk5TS2Vybl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVXTlNDb2xvciO/wUeuFHrhSNIMLC0uXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEIAK0x0TDDAzNqIxMoALgAyiNDWADYAOgA9fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALgAAAAAAAFlMYXRvLUJvbGTSPD0+P1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM+QEFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jw9Q0RfEBBOU0ZvbnREZXNjcmlwdG9yokVBXxAQTlNGb250RGVzY3JpcHRvctNHSAxJSktXTlNXaGl0ZVxOU0NvbG9yU3BhY2VGMC4yNDcAEAOAEtI8PU1OV05TQ29sb3KiTUHSPD1AUKJAQdMdEwxSViajHyAhgAWABoAHo1ckJYAVgAmAEYATIz/Y9cKPXCj20x0TDF1hJqMfICGABYAGgAejYiQlgBeACYARgBMjv764UeuFHrjTHRMMaGwmox8gIYAFgAaAB6NtJCWAGYAJgBGAEyO/yuFHrhR64dMdEwxzdyajHyAhgAWABoAHo3gkJYAbgAmAEYATIz/QUeuFHrhS0x0TDH6BJqIgIYAGgAeiJCWACYARgBPSPD2Gh15OU011dGFibGVBcnJheaOGiEFXTlNBcnJhedKKDIuMV05TLmRhdGFOAQABAQECAQMBBAEDAQWAH9I8PY6PXU5TTXV0YWJsZURhdGGjjpBBVk5TRGF0YdI8PZKTXxASTlNBdHRyaWJ1dGVkU3RyaW5nopRBXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0ZeYVHJvb3SAAQAIABEAGgAjAC0AMgA3AFsAYQBqAHMAhQCSAJkAmwCdAJ8AoQCpAK4AuQDAAMIAxADGAMgAygDMAM4A1QDdAOEA4wDlAOcA6wDtAO8A8QDzAPoBHAEkAS0BMgFPAVEBUwFaAV0BXwFhAWQBZgFoAWoBgAGWAZ8BqQGuAbkBwgHYAdwB6QHyAfcCCgINAiACJwIvAjwCQwJFAkcCTAJUAlcCXAJfAmYCagJsAm4CcAJ0AnYCeAJ6AnwChQKMApACkgKUApYCmgKcAp4CoAKiAqsCsgK2ArgCugK8AsACwgLEAsYCyALRAtgC3ALeAuAC4gLmAugC6gLsAu4C9wL+AwEDAwMFAwgDCgMMAw4DEwMiAyYDLgMzAzsDSgNMA1EDXwNjA2oDbwOEA4cDnAOuA7EDtgAAAAAAAAIBAAAAAAAAAJkAAAAAAAAAAAAAAAAAAAO4"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "B5690623-C7C7-41A5-ADB1-480CDC169BFB",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 51,
+    "x": 0.1299999999999955,
+    "y": 0.7500457763671875
+  },
+  "glyphBounds": "{{1, 3}, {46, 13}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 1,
+  "name": "Branch ",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringFontAttribute": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALgAAAAAAAFlMYXRvLUJvbGTSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA3QDiAO0A9gEMARABHQEmASsBPgFBAVQBZgFpAW4AAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcA=="
+        },
+        "NSColor": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OV05TV2hpdGVcTlNDb2xvclNwYWNlViRjbGFzc0YwLjI0NwAQA4AC0hAREhNaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yohIUWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc7QUhQXWRrbW90f4iQk5yusbYAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAuA=="
+        },
+        "NSKern": -0.135
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 0
+}
