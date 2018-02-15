@@ -1,0 +1,108 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "8B413908-151C-4013-9E7C-7526F6F57769",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 720,
+    "width": 1024,
+    "x": 2248,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "588BA9CA-B4B1-4367-9959-B7883F984628"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "47B07E74-9574-4F73-A488-B059ACC30535"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A1551A5-7849-40C5-ADC2-E19BD8A1A558"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05F887E6-2A18-49E2-B8D0-B9D84C06C87E"
+    },
+    {
+      "class": "text",
+      "id": "A117D8A6-AAF1-4B1A-B615-1C3C66260BB4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C4013122-2935-4185-A944-1CF71AFAB91E"
+    },
+    {
+      "class": "text",
+      "id": "42994556-781F-4D5F-B9C2-3B1EC479E76C"
+    },
+    {
+      "class": "text",
+      "id": "8D0AEAB7-A2B3-4397-911F-73393234537A"
+    },
+    {
+      "class": "text",
+      "id": "FF3FCE10-2CAF-442C-A389-BE49A4646226"
+    },
+    {
+      "class": "text",
+      "id": "FB8A8A6B-D98B-448C-AEE9-59D7E565C6D0"
+    },
+    {
+      "class": "text",
+      "id": "D07D2884-99F2-423E-AAB1-86D21950F7F1"
+    }
+  ],
+  "name": "Game results",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

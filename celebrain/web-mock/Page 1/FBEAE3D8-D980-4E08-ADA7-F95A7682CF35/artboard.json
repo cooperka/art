@@ -1,0 +1,96 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "FBEAE3D8-D980-4E08-ADA7-F95A7682CF35",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 720,
+    "width": 1024,
+    "x": 1124,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2B22919C-73CE-4808-B111-F9C3EAD873FF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "15A31691-D0C8-4870-A9AE-303BBFBF73FC"
+    },
+    {
+      "class": "text",
+      "id": "674EFB7F-A0E0-4BCF-8257-6EC494A700B2"
+    },
+    {
+      "class": "text",
+      "id": "C9D102AA-0BC5-4D82-8A11-4F9CF70DEB3C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CFF093FD-80F0-4854-ABF6-0E981F883320"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F3A5C97-0184-4721-9ECB-5CCE6B213C3E"
+    },
+    {
+      "class": "text",
+      "id": "1000A784-AFAB-4395-BF49-74ABC21C59FD"
+    },
+    {
+      "class": "text",
+      "id": "4C29D44D-0E12-4E61-BA79-FFBE7107C733"
+    }
+  ],
+  "name": "Game recall",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
