@@ -13,11 +13,11 @@
     "exportFormats": [
       {
         "_class": "exportFormat",
-        "absoluteSize": 800,
+        "absoluteSize": 279,
         "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 1.142857142857143,
+        "scale": 0.7971428571428572,
         "visibleScaleType": 1
       }
     ],
@@ -30,7 +30,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 350,
-    "width": 700,
+    "width": 350,
     "x": 525,
     "y": 475
   },
