@@ -7,18 +7,18 @@
     "green": 0.9333333333333333,
     "red": 0.9333333333333333
   },
-  "do_objectID": "1E4D8182-3CB7-4A7A-B443-AF56053985B7",
+  "do_objectID": "82C647AE-53FA-4B9F-8CC7-6BD1A7CD8F6A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
       {
         "_class": "exportFormat",
-        "absoluteSize": 0,
+        "absoluteSize": 800,
         "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
+        "scale": 1.142857142857143,
+        "visibleScaleType": 1
       }
     ],
     "includedLayerIds": [
@@ -30,12 +30,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 350,
-    "width": 350,
+    "width": 700,
     "x": 525,
-    "y": 25
+    "y": 475
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,38 +52,34 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "05CD59B2-8D03-4B5B-A278-4C322D7BE0D0"
+      "id": "EAAB93ED-BDD6-486B-BBCC-72FD2A854248"
     },
     {
       "class": "shapeGroup",
-      "id": "AFBEED04-1C89-4BB3-8D38-F7C7EB1728B9"
+      "id": "03F68CB5-5F01-4C74-A6F5-C0ACCF08EE93"
     },
     {
       "class": "shapeGroup",
-      "id": "7923FBAA-090C-48EA-B22C-D4083EE19155"
+      "id": "415E4741-3D99-45F8-8C67-B68899C6AD32"
     },
     {
       "class": "shapeGroup",
-      "id": "76CB30A1-E238-411C-BC0C-AE449D933576"
+      "id": "37F2008D-073D-4CD3-A61A-CABAF1B35656"
     },
     {
       "class": "shapeGroup",
-      "id": "E659945D-DC56-4135-8111-A05A204241DA"
+      "id": "35C750CE-3FD4-4428-BB11-C3AD31928B15"
     },
     {
       "class": "shapeGroup",
-      "id": "67B4823C-C08E-4972-84BC-B5F4629B9406"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "0E4806BB-1D00-4FAF-8A16-D234C3956897"
+      "id": "55A9FFD9-E410-4B19-ACB2-E9211EDFB788"
     },
     {
       "class": "group",
-      "id": "A9A224C4-8310-48AB-A2F4-5C1189E770E1"
+      "id": "AF6D4F6C-8D62-41A8-A061-7CDD8AA1BE81"
     }
   ],
-  "name": "logo",
+  "name": "facebook-preview",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
